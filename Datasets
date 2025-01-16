@@ -1,0 +1,21 @@
+Project datasets:
+
+İmage datasets                         
+
+Fer2013
+***********************************
+Audio Datasets
+
+SAVEE Dataset
+Ravdess Dataset
+CREMA-D Dataset
+Tess Dataset
+IEMOCAP Dataset 
+****************************************
+Text Dataets
+
+Train_Sent_emo.csv
+Test_Sent_emo.csv
+Dev_Sent_emo.csv
+Emotion_dataset_test.csv
+Emotion_dataset_train.csv
